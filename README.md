@@ -4,7 +4,7 @@ This repository will walk you through more practice for the Frontend program at 
 
 Each day has a folder containing a `README.md` file with instructions for the day, exercises, and questions. You must complete all the exercises and questions.
 
-### Pre-work Index
+### Index
 
 * [Day 0 - More Terminal Practice](day_0)
 * [Day 1 - HTML and CSS](day_1)
@@ -74,15 +74,15 @@ This shows us what version of NPM we are running. You should see something like:
 
 We will be referencing many terminal commands throughout the prework. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the day_0 directory.
 
-### Forking the Module 0 Capstone Repository
+### Forking this Repository
 
 Next, we are going to *fork this repository that you're reading right now*. Forking is when you copy a Github repository to your Github account to make your own changes. Think of it like a fork in the road -- you're about to make changes that differ from the main path.
 
-In this scenario, the [Turing Github account](https://github.com/turingschool) owns this `frontend-module-0-capstone` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
+In this scenario, the [Turing Github account](https://github.com/turingschool) owns this `fe-m1-practice` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
 
 ####  1. Make sure you are logged in to GitHub (if you are not logged in, log in and come back to this page)
 
-####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool-examples/frontend-module-0-capstone).
+####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool-examples/fe-m1-practice).
 
 ####  3. Click on `Fork` in the upper right corner of the screen and select your account as the destination
 
@@ -98,7 +98,7 @@ Now that you have forked this repository, the next thing to do is *clone your fo
 
 Cloning is when you copy a remote Github repository to your local computer.
 
-#### 1. In YOUR `frontend-module-0-capstone` repository that your just forked, click on `Clone or Download`
+#### 1. In YOUR `fe-m1-practice` repository that your just forked, click on `Clone or Download`
 
 ![clone down your copy](/images/fork_03.jpg)
 
@@ -120,20 +120,20 @@ $ cd turing
 $ mkdir 0module
 $ cd 0module
 $ git clone <ctrl-v to paste ssh link here >
-Cloning into 'frontend-module-0-capstone'...
+Cloning into 'fe-m1-practice'...
 remote: Enumerating objects: 678, done.
 remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
 Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
 Resolving deltas: 100% (332/332), done.
 
-$ cd frontend-module-0-capstone
+$ cd fe-m1-practice
 $ git status .
 // If everything worked correctly, you should see:
 On branch master
 nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "prework repository" or "frontend prework", and they all refer to your forked copy of this `frontend-module-0-capstone` repository.
+From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "prework repository" or "frontend prework", and they all refer to your forked copy of this `fe-m1-practice` repository.
 
 Each day's `README` will walk you through the steps you need to take to save your work.
 
@@ -141,7 +141,7 @@ To start, in your terminal, `cd` into the `day_0` directory. Follow the instruct
 
 ----------------------------------
 
-### Month of Module 0 Capstone: Extended Resources
+### Extended Resources
 
 Have longer than a week to prepare for your time at Turing? Looking for more details and a deeper dive into the materials? Just can't get enough? We've put together a collection of resources to help you continue your ramp up before the first day of class.
 

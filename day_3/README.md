@@ -1,6 +1,6 @@
 # Day 3: HTML and CSS
 
-## Open your local copy of frontend-module-0-capstone in Atom
+## Open your local copy of fe-m1-practice in Atom
 
 In the day_3 directory, create another file called `day3-exercises.md`. This is where you'll put your answers to the following questions.
 

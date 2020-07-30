@@ -1,6 +1,6 @@
 ## Day 6: JavaScript
 
-## Open your local copy of frontend-module-0-capstone in Atom
+## Open your local copy of fe-m1-practice in Atom
 
 In the day_6 directory, create another file called `day6-exercises.md`. This is where you'll put your answers to the following questions.
 

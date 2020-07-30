@@ -1,6 +1,6 @@
 # Day 2: HTML and CSS
 
-## Open your local copy of frontend-module-0-capstone in Atom
+## Open your local copy of fe-m1-practice in Atom
 
   In the day_2 directory, create another file called `day2-exercises.md`. This is where you'll put your answers to the following questions.
 
@@ -42,7 +42,7 @@
 
 ## For later: Something for Show-and-Tell
 
-  You've notice that we've been building on the same "pen" throughout the mod 0 capstone so far. On day 7, you will spend the day building a completely new site using Atom (not CodePen). You'll take what you've learned throughout days 1-6 and apply it to a completely new webpage. During the first couple days of class, you'll share what you've made on day 7 with your cohort. Just something to keep in mind over these next few days!
+  You've notice that we've been building on the same "pen" throughout this repo so far. On day 7, you will spend the day building a completely new site using Atom (not CodePen). You'll take what you've learned throughout days 1-6 and apply it to a completely new webpage. During the first couple days of class, you'll share what you've made on day 7 with your cohort. Just something to keep in mind over these next few days!
 
 ## Save your day 2 file in git and push to GitHub
 
