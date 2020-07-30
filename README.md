@@ -1,6 +1,6 @@
-# Frontend Mod 0 Capstone Repository
+# Frontend Practice for Mod 1!
 
-This repository will walk you through the Mod 0 Capstone for the Frontend program at Turing.
+This repository will walk you through more practice for the Frontend program at Turing.
 
 Each day has a folder containing a `README.md` file with instructions for the day, exercises, and questions. You must complete all the exercises and questions.
 
